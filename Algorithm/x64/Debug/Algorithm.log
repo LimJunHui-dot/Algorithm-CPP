@@ -1,0 +1,53 @@
+﻿  Algorithm.cpp
+  Astar Algorithm.cpp
+  Basic Sort1.cpp
+  Basic Sort2.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Basic Sort2.cpp(113,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Basic Sort2.cpp(121,30): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Basic Sort3.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Basic Sort3.cpp(51,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Basic Sort3.cpp(59,30): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BFS.cpp
+  Binary_Search.cpp
+  Binary_Search_Tree.cpp
+  DFS.cpp
+  Dijkstra's Algorithm.cpp
+  DisjointSet.cpp
+  Dynamic Array.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Dynamic Array.cpp(62,54): error C2760: 구문 오류: 여기서 '}'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Dynamic Array.cpp(80,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'Vector<T>'에 대한 참조를 확인하세요.
+  Graph.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(104,22): error C2371: 'adjacent': 재정의. 기본 형식이 다릅니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(95,23): message : 'adjacent' 선언을 참조하십시오.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(105,12): error C2088: '[': class에 맞지 않습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(106,12): error C2088: '[': class에 맞지 않습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(107,12): error C2088: '[': class에 맞지 않습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(108,12): error C2088: '[': class에 맞지 않습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Graph.cpp(111,29): error C2088: '[': class에 맞지 않습니다.
+  HashTable.cpp
+  LinkedList.cpp
+  Priority Queue.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Priority Queue.cpp(15,8): error C2661: 'std::vector<int,std::allocator<int>>::push_back': 오버로드된 함수에서 0개의 인수를 사용하지 않습니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Priority Queue.cpp(15,8): message : 인수 목록 '()'을(를) 일치시키는 동안
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Priority Queue.cpp(13,1): message : 클래스 템플릿 멤버 함수 'void PriorityQueue<int,std::vector<int,std::allocator<int>>,std::less<int>>::push(const T &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Priority Queue.cpp(88,9): message : 컴파일되는 함수 템플릿 인스턴스화 'void PriorityQueue<int,std::vector<int,std::allocator<int>>,std::less<int>>::push(const T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Priority Queue.cpp(86,45): message : 컴파일되는 클래스 템플릿 인스턴스화 'PriorityQueue<int,std::vector<int,std::allocator<int>>,std::less<int>>'에 대한 참조를 확인하세요.
+  Queue.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Queue.cpp(83,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RightHandRule.cpp
+  Stack.cpp
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Stack.cpp(44,12): error C2371: 'Stack<T,Container>::_container': 재정의. 기본 형식이 다릅니다.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Stack.cpp(43,10): message : 'Stack<T,Container>::_container' 선언을 참조하십시오.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Stack.cpp(45,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<T,Container>'에 대한 참조를 확인하세요.
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\Stack.cpp(67,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tree.cpp
+  코드를 생성하고 있습니다...
+C:\Users\JunHuiLim\Desktop\C Workspace\Algorithm\Algorithm\LinkedList.cpp(57): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
